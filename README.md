@@ -98,4 +98,3 @@ To list all available commands type:
 To list the options for a particular command type:
 
     php core/console --help --[command]
-# patternlab
